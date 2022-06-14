@@ -2,7 +2,7 @@ import api from "./api";
 const URLS = {
   fetchWeathersUrl: "",
 };
-const appId = "&appid=449b89605024493ea26d1f8438910d9b";
+const appId = "&appid=f5812fb823c3350828518ab83f1dcf57";
 const weatherApi = "https://api.openweathermap.org/data/2.5/onecall?";
 const unitMetric = "&units=metric";
 const fetchGeoCodeApi = "http://api.openweathermap.org/geo/1.0/direct?q=";
